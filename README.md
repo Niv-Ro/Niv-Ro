@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hey there! I'm Niv 👋
 From maintaining 99.9% uptime for military communication systems to building ML models with 91% accuracy - I've learned that great software isn't just about code, it's about impact.
 Recently graduated CS degree, but I've been solving technical problems for 6+ years. Now I build full-stack applications that make a difference - whether it's helping the deaf community communicate or saving businesses hours of manual work.
