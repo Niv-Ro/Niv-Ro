@@ -16,12 +16,6 @@ niv.romano@gmail.com | [LinkedIn](https://linkedin.com/in/niv-romano)
 ![](https://nirzak-streak-stats.vercel.app/?user=Niv-Ro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niv-Ro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niv-Ro&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Niv-Ro&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Niv-Ro&icon=6&color=1)](https://visitcount.itsvg.in)
 
